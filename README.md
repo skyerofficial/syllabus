@@ -52,3 +52,27 @@ The course is divided into 6 parts:
 
 
 #### Class 1 ( *Sept 19, 2017* ):
+  * ##### Creating and Running `.html` files
+  * ##### Basic about markup languages.
+  * ##### HTML Structure
+    - DOCTYPE
+    - Markup Tags
+      + Head
+      + Body
+      + Heading
+      + Paragraph
+      + Table
+      + Lists
+    - Attributes
+      + src ( *for adding images* )
+    - Paths
+      + Absolute
+      + Relative
+    - Linking in Web Pages
+      + Internal Linking
+      + External Linking
+    - Form
+      + Input Tags
+      + Form Method
+
+#### Class 2 ( *Sept 20, 2017* ):
