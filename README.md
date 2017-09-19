@@ -43,8 +43,8 @@ The course is divided into 6 parts:
 #### Intro ( *Sept 18, 2017* ):
   1. Course Overview
   2. Environment Setup
-    - [Brackets](https://github.com/adobe/brackets/releases)
-    - [Git](https://git-scm.com/downloads)
+     - [Brackets](https://github.com/adobe/brackets/releases)
+     - [Git](https://git-scm.com/downloads)
   3. [GitHub](https://github.com/) Profile setup.
   4. Intro to GitHub Classroom:
     - Starting with first assignment.
