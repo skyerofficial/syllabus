@@ -55,8 +55,8 @@ The course is divided into 6 parts:
   1. Creating and Running `.html` files
   2. Basic about markup languages.
   3. HTML Structure
-    * DOCTYPE
-    * Markup Tags
+    - DOCTYPE
+    - Markup Tags
       + Head
       + Body
       + Heading
