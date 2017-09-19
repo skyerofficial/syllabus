@@ -63,8 +63,11 @@ The course is divided into 6 parts:
       + Paragraph
       + Table
       + Lists
+      + Meta Tags
+      + Semantic Tags
     - Attributes
       + src ( *for adding images* )
+      + style
     - Paths
       + Absolute
       + Relative
@@ -74,5 +77,22 @@ The course is divided into 6 parts:
     - Form
       + Input Tags
       + Form Method
+    - Different Type of Tags
+      + Inline
+      + Block
+  * ##### Assignment (Document2Web)
+
 
 #### Class 2 ( *Sept 20, 2017* ):
+  * ##### What are Repositories
+  * ##### Initialize local Repo using command line git.
+  * ##### Creating First Commit
+  * ##### Intro to GitHub
+  * ##### Linking Local Repo to Remote Github Repo
+  * ##### Making changes to files and pushing changes to GitHub.
+  * ##### Working together on same Repo
+  * ##### Handling Conflicts
+  * ##### Branching
+  * ##### Creating PRs
+  * ##### Writing Readme's ( *MD Format* )
+  
