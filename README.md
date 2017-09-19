@@ -1,4 +1,6 @@
-# <img src="assests/Cover.jpg" alt="class logo" class="logo"/> WEB**HOUR** Syllabus
+# <img src="assests/Cover.jpg" alt="class logo" class="logo"/>
+
+# WEB**HOUR** Syllabus
 
 
 ## Course Overview
@@ -35,3 +37,18 @@ The course is divided into 6 parts:
 #### Part 6: Test Driven Programming  (2 sessions)
   * Introduction to Jasmine.
   * UI testing using Jasmine JS.
+
+
+## WorkFlow
+#### Intro ( *Sept 18, 2017* ):
+  * ##### Course Overview
+  * ##### Environment Setup
+    - [Brackets](https://github.com/adobe/brackets/releases)
+    - [Git](https://git-scm.com/downloads)
+  * ##### [GitHub](https://github.com/) Profile setup.
+  * ##### Intro to GitHub Classroom:
+    - Starting with first assignment.
+  * ##### Requesting GitHub [Student Developer Pack](https://education.github.com/pack)
+
+
+#### Class 1 ( *Sept 19, 2017* ):
