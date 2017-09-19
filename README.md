@@ -41,22 +41,22 @@ The course is divided into 6 parts:
 
 ## WorkFlow
 #### Intro ( *Sept 18, 2017* ):
-  * ##### Course Overview
-  * ##### Environment Setup
+  1. Course Overview
+  2. Environment Setup
     - [Brackets](https://github.com/adobe/brackets/releases)
     - [Git](https://git-scm.com/downloads)
-  * ##### [GitHub](https://github.com/) Profile setup.
-  * ##### Intro to GitHub Classroom:
+  3. [GitHub](https://github.com/) Profile setup.
+  4. Intro to GitHub Classroom:
     - Starting with first assignment.
-  * ##### Requesting GitHub [Student Developer Pack](https://education.github.com/pack)
+  5. Requesting GitHub [Student Developer Pack](https://education.github.com/pack)
 
 
 #### Class 1 ( *Sept 19, 2017* ):
-  * ##### Creating and Running `.html` files
-  * ##### Basic about markup languages.
-  * ##### HTML Structure
-    - DOCTYPE
-    - Markup Tags
+  1. Creating and Running `.html` files
+  2. Basic about markup languages.
+  3. HTML Structure
+    * DOCTYPE
+    * Markup Tags
       + Head
       + Body
       + Heading
@@ -80,19 +80,18 @@ The course is divided into 6 parts:
     - Different Type of Tags
       + Inline
       + Block
-  * ##### Assignment (Document2Web)
+  4. Assignment (Document2Web)
 
 
 #### Class 2 ( *Sept 20, 2017* ):
-  * ##### What are Repositories
-  * ##### Initialize local Repo using command line git.
-  * ##### Creating First Commit
-  * ##### Intro to GitHub
-  * ##### Linking Local Repo to Remote Github Repo
-  * ##### Making changes to files and pushing changes to GitHub.
-  * ##### Working together on same Repo
-  * ##### Handling Conflicts
-  * ##### Branching
-  * ##### Creating PRs
-  * ##### Writing Readme's ( *MD Format* )
-  
+  1. What are Repositories
+  2. Initialize local Repo using command line git.
+  3. Creating First Commit
+  4. Intro to GitHub
+  5. Linking Local Repo to Remote Github Repo
+  6. Making changes to files and pushing changes to GitHub.
+  7. Working together on same Repo
+  8. Handling Conflicts
+  9. Branching
+  10. Creating PRs
+  11. Writing Readme's ( *MD Format* )
