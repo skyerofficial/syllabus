@@ -82,16 +82,19 @@ The course is divided into 6 parts:
       + Block
   4. Assignment (Document2Web)
 
-
 #### Class 2 ( *Sept 20, 2017* ):
+
+#### Class 3 ( *Sept 21, 2017* ):
   1. What are Repositories
   2. Initialize local Repo using command line git.
   3. Creating First Commit
   4. Intro to GitHub
   5. Linking Local Repo to Remote Github Repo
   6. Making changes to files and pushing changes to GitHub.
-  7. Working together on same Repo
-  8. Handling Conflicts
-  9. Branching
-  10. Creating PRs
-  11. Writing Readme's ( *MD Format* )
+  
+#### Class 4 ( *Sept 26, 2017* ):
+  1. Working together on same Repo
+  2. Handling Conflicts
+  3. Branching
+  4. Creating PRs
+  5. Writing Readme's ( *MD Format* )
