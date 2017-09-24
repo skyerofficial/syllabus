@@ -71,18 +71,19 @@ The course is divided into 6 parts:
     - Paths
       + Absolute
       + Relative
-    - Linking in Web Pages
-      + Internal Linking
-      + External Linking
-    - Form
-      + Input Tags
-      + Form Method
     - Different Type of Tags
       + Inline
       + Block
   4. Assignment (Document2Web)
 
 #### Class 2 ( *Sept 20, 2017* ):
+  1. Linking in Web Pages
+    - Internal Linking
+    - External Linking
+  2. Form
+    - Input Tags
+    - Form Method
+  3. Meta Tags
 
 #### Class 3 ( *Sept 21, 2017* ):
   1. What are Repositories
@@ -91,7 +92,7 @@ The course is divided into 6 parts:
   4. Intro to GitHub
   5. Linking Local Repo to Remote Github Repo
   6. Making changes to files and pushing changes to GitHub.
-  
+
 #### Class 4 ( *Sept 26, 2017* ):
   1. Working together on same Repo
   2. Handling Conflicts
