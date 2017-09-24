@@ -78,11 +78,11 @@ The course is divided into 6 parts:
 
 #### Class 2 ( *Sept 20, 2017* ):
   1. Linking in Web Pages
-    - Internal Linking
-    - External Linking
+      - Internal Linking
+      - External Linking
   2. Form
-    - Input Tags
-    - Form Method
+      - Input Tags
+      - Form Method
   3. Meta Tags
 
 #### Class 3 ( *Sept 21, 2017* ):
