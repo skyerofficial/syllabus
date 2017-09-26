@@ -99,3 +99,20 @@ The course is divided into 6 parts:
   3. Branching
   4. Creating PRs
   5. Writing Readme's ( *MD Format* )
+
+#### Class 5 ( *Sept 27, 2017* ):
+  1. What is CSS?
+  2. How CSS effect HTML?
+  3. All about CSS
+     - CSS syntax
+     - Selectors introduction
+     - Simple selectors
+     - Attribute selectors
+     - Pseudo-classes and pseudo-elements
+     - Combinators and multiple selectors
+     - CSS values and units
+     - Cascade inheritance
+  4. What is DOM?
+  5. How CSS actually works?
+  6. How to apply CSS to our HTML?
+  7. Why Responsive?
