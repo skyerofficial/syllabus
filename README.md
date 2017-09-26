@@ -104,14 +104,19 @@ The course is divided into 6 parts:
   2. What is CSS?
   3. How CSS effect HTML?
   4. All about CSS
-     - CSS syntax
-     - Selectors introduction
+   - CSS syntax
+   - Selectors introduction
        + Simple selectors
+        - Element name selector
+        - Class selectors
+        - Id selector
+        - Universal selector
+        
        + Attribute selectors
        + Pseudo-classes and pseudo-elements
        + Combinators and multiple selectors
-     - CSS values and units
-     - Cascade inheritance
+   - CSS values and units
+   - Cascade inheritance
   5. What is DOM?
   6. How CSS actually works?
   7. How to apply CSS to our HTML?
