@@ -106,10 +106,10 @@ The course is divided into 6 parts:
   4. All about CSS
      - CSS syntax
      - Selectors introduction
-     - Simple selectors
-     - Attribute selectors
-     - Pseudo-classes and pseudo-elements
-     - Combinators and multiple selectors
+       + Simple selectors
+       + Attribute selectors
+       + Pseudo-classes and pseudo-elements
+       + Combinators and multiple selectors
      - CSS values and units
      - Cascade inheritance
   5. What is DOM?
