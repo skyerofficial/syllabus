@@ -111,7 +111,7 @@ The course is divided into 6 parts:
         - Class selectors
         - Id selector
         - Universal selector
-        
+
        + Attribute selectors
        + Pseudo-classes and pseudo-elements
        + Combinators and multiple selectors
@@ -120,4 +120,23 @@ The course is divided into 6 parts:
   5. What is DOM?
   6. How CSS actually works?
   7. How to apply CSS to our HTML?
-  8. Why Responsive?
+
+#### Class 6 ( *Sept 28, 2017* ):
+  1. Assignment [Tribute Page](https://github.com/skyerofficial/Assignment-css-tribute)
+
+
+#### Class 7 ( *Sept 03, 2017* ):
+  1. Registration for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register)
+  2. Resolving issues in [Tribute Page](https://github.com/skyerofficial/Assignment-css-tribute) Assignment.
+
+
+#### Class 8 ( *Oct 04, 2017* ):
+  1. Box Model
+  2. What is Responsiveness ?
+  3. Why Responsive ?
+  4. How to make a Web Page Responsive ?
+    - Setting up Viewport
+    - Relative Units
+    - Best Practices
+  5. Grid Based Layout
+  6. Bootstrap, Materialize and other Frameworks
