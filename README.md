@@ -125,7 +125,7 @@ The course is divided into 6 parts:
   1. Assignment [Tribute Page](https://github.com/skyerofficial/Assignment-css-tribute)
 
 
-#### Class 7 ( *Sept 03, 2017* ):
+#### Class 7 ( *Oct 03, 2017* ):
   1. Registration for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register)
   2. Resolving issues in [Tribute Page](https://github.com/skyerofficial/Assignment-css-tribute) Assignment.
 
