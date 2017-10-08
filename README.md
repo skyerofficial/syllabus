@@ -6,6 +6,17 @@
 ## Course Overview
 This course will focus on helping students understand how the web works, help them acquire the fundamental and thorough knowledge of the 3 foundational languages that power each and every website and learn the design patterns used by the industry. This is a 2 month Course and at the end of this  course each of student will have a fully functional Web App which could be added to their portfolio’s.
 
+
+## Teachers
+  - Jai Kathuria @[jaikathuria](https://github.com/jaikathuria/)
+  - Sagar Choudhary @[sagarchoudhary96](https://github.com/sagarchoudhary96)
+  - Kanishka Makhija @[kanishkamakhija](https://github.com/kanishkamakhija)
+  - Kunal Kalra @[kunal121](https://github.com/kunal121)
+  - Gunavina Mehta @[gunavina](https://github.com/gunavina)
+  - Anamika Manhas @[anamika-manhas](https://github.com/anamika-manhas)
+  - Sahil Lamba @[lambasahil](https://github.com/lambasahil)
+  - Saksham Narula @[Sakshamnarula](https://github.com/Sakshamnarula)
+
 ## Course Outline
 
 The course is divided into 6 parts:
@@ -125,7 +136,7 @@ The course is divided into 6 parts:
   1. Assignment [Tribute Page](https://github.com/skyerofficial/Assignment-css-tribute)
 
 
-#### Class 7 ( *Sept 03, 2017* ):
+#### Class 7 ( *Oct 03, 2017* ):
   1. Registration for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register)
   2. Resolving issues in [Tribute Page](https://github.com/skyerofficial/Assignment-css-tribute) Assignment.
 
@@ -134,9 +145,13 @@ The course is divided into 6 parts:
   1. Box Model
   2. What is Responsiveness ?
   3. Why Responsive ?
-  4. How to make a Web Page Responsive ?
+
+#### Class 9 ( *Oct 05, 2017* ):
+  1. How to make a Web Page Responsive ?
     - Setting up Viewport
     - Relative Units
     - Best Practices
-  5. Grid Based Layout
-  6. Bootstrap, Materialize and other Frameworks
+
+#### Class 10 ( *Oct Last Week* )
+  1. Grid Based Layout
+  2. Bootstrap, Materialize and other Frameworks
