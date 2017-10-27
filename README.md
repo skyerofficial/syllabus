@@ -19,7 +19,7 @@ This course will focus on helping students understand how the web works, help th
 
 ## Course Outline
 
-The course is divided into 6 parts:
+The course is divided into 2 parts:
 
 #### Part 1: HTML, Mockup Designing and Github (2 sessions)
   * Basic HTML Fundamentals and Introduction to HTML5
@@ -138,4 +138,4 @@ The course is divided into 6 parts:
 
 #### Class 10 ( *Oct Last Week* )
   1. Grid Based Layout
-  2. Bootstrap, Materialize and other Frameworks
+  2. Bootstrap and other Frameworks 
