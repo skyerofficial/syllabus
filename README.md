@@ -31,23 +31,7 @@ The course is divided into 6 parts:
   * BOX model, Grid Based Frameworks
   * Bootstrap, Materialize and their components
 
-#### Part 3: JS Programming Language of Web, JQuery, ECMAScript 2015 (4 sessions)
-  * Introduction to JS, Adding interactivity to web pages using JS
-  * JQuery (JavaScript Made Easy)
-  * Working with Future Javascript
 
-
-#### Part 4: DOM Rendering Process and Website Optimisations (1 sessions)
-  * Optimizing Website for faster and smooth performance
-
-#### Part 5: HTTP Requests, Ajax, Promises, 3rd Party APIs (5 sessions)
-  * What are Asynchronous Requests, How do they work.
-  * Working with $.ajax, JavaScript Promises
-  * Introduction to Zomato or any other API for fetching places data.
-
-#### Part 6: Test Driven Programming  (2 sessions)
-  * Introduction to Jasmine.
-  * UI testing using Jasmine JS.
 
 
 ## WorkFlow
