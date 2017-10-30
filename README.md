@@ -139,3 +139,5 @@ The course is divided into 2 parts:
 #### Class 10 ( *Oct Last Week* )
   1. Grid Based Layout
   2. Bootstrap and other Frameworks 
+  
+#### Class 11 (*Oct Last Week* ) 
