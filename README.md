@@ -140,3 +140,4 @@ The course is divided into 2 parts:
   1. Grid Based Layout
   2. Bootstrap and other Frameworks 
   
+### Graduation
